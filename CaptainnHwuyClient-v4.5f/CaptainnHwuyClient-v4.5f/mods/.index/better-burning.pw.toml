@@ -1,0 +1,14 @@
+name = "Better Burning"
+filename = "BetterBurning-1.8.9-0.5.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/uNBP8Xul/versions/QiadtIn3/BetterBurning-1.8.9-0.5.2.jar"
+hash-format = "sha512"
+hash = "b73acf31e0e6d33173f2c0efea40a49b49829b4d0229766217e81d47152ce6b4ae6cd6e98c37927d65a966954ab16b032f64d7291c2e5195d1a3365c96200dbd"
+
+[update]
+[update.modrinth]
+mod-id = "uNBP8Xul"
+version = "QiadtIn3"

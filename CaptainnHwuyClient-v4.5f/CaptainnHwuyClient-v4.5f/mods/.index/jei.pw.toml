@@ -1,0 +1,14 @@
+name = "Just Enough Items"
+filename = "jei_1.8.9-2.28.18.187.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/oay6x5p0/jei_1.8.9-2.28.18.187.jar"
+hash-format = "sha512"
+hash = "772f84b5e683104b2340114d9b346799fe565c72283c4bc171bc5fb6e9c5c9aa285e625f1b92c95e65ad5502b436203622b150ac1d494a353ec39706a68d5e96"
+
+[update]
+[update.modrinth]
+mod-id = "u6dRKJwZ"
+version = "oay6x5p0"

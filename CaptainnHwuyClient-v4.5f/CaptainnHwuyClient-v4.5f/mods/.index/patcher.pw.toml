@@ -1,0 +1,14 @@
+name = "PolyPatcher"
+filename = "PolyPatcher-1.8.9-forge-1.10.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/YknNc5nN/versions/gjk64Z2I/PolyPatcher-1.8.9-forge-1.10.1.jar"
+hash-format = "sha512"
+hash = "72d044440a8a463f7b4162fd4f3e432e07986b4ff52861e23cb895defc8cb07dd61a033a6b358391cc6761d5f2665647d6cb28f27273dbc1558ea806b7a7bcff"
+
+[update]
+[update.modrinth]
+mod-id = "YknNc5nN"
+version = "gjk64Z2I"

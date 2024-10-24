@@ -1,0 +1,14 @@
+name = "ArmorHUD"
+filename = "ArmorHUD-1.1-1.8.9.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/6yx5ezKh/versions/1.1-1.8.9/ArmorHUD-1.1-1.8.9.jar"
+hash-format = "sha512"
+hash = "1efedb54bd0441d499fab54988bbc6f98e591e8b6f5ab95337a283d9778601f7defed8b152407275cfcaa7e516ab4ee016bf1783fab26f52df33ab8d6ed5fb0a"
+
+[update]
+[update.modrinth]
+mod-id = "6yx5ezKh"
+version = "1pFfXTp6"

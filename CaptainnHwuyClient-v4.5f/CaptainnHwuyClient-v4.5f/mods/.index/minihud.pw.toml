@@ -1,0 +1,14 @@
+name = "MiniHUD"
+filename = "minihud-1.8.9-0.4.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/UMxybHE8/versions/ZCirikWd/minihud-1.8.9-0.4.2.jar"
+hash-format = "sha512"
+hash = "c5f0b4f11d3124d52f31c0e74d0c54b2b7178b13d05d944a37dd01d216138b42a064b8c62488d3ca3860bc9fb5672a14165aff02ab1e505a2c4dc2719b84a75a"
+
+[update]
+[update.modrinth]
+mod-id = "UMxybHE8"
+version = "ZCirikWd"

@@ -1,0 +1,14 @@
+name = "CrashPatch"
+filename = "CrashPatch-1.8.9-forge-2.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/nZ3E8WQz/versions/waoORuvp/CrashPatch-1.8.9-forge-2.0.1.jar"
+hash-format = "sha512"
+hash = "4e7eb8cf27cce09a8ec3a8b5c926be99fd5397a255bf37ebc0a4efe3b72414710a8fd302d74e301674a5604d66742d34ce71e2d603379b2331ad07c0fad1b8ef"
+
+[update]
+[update.modrinth]
+mod-id = "nZ3E8WQz"
+version = "waoORuvp"
