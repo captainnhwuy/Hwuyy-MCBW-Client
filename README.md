@@ -1,4 +1,4 @@
-# Hwuyy-MCBW-Client
+# Azure Client
 Client này là 1 dự án mã nguồn mở ( có thể thay đổi theo ý thích )
 Bạn có thể tùy biến theo cách riêng mình
 Hãy nhớ ghi credit nếu bạn đăng lên các nền tảng mxh
