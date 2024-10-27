@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @captainnhwuy
 - 🌱 I’m currently learning : C++ and Java
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: This is a Modpack from a 1 Bedwar Lover,if you dont like this one,just leave my Repost
 # Azure Client
 - Client này là 1 dự án mã nguồn mở ( có thể thay đổi theo ý thích )
 - Bạn có thể tùy biến theo cách riêng mình
